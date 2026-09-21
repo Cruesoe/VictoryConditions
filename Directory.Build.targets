@@ -33,4 +33,3 @@
     <Message Importance="high" Text="  -&gt; $(ModAssemblies)$(TargetFileName)" />
   </Target>
 </Project>
-

@@ -32,4 +32,3 @@
     <DefineConstants>$(DefineConstants);TRACE</DefineConstants>
   </PropertyGroup>
 </Project>
-
